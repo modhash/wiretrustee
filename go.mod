@@ -13,7 +13,7 @@ require (
 	github.com/spf13/cobra v1.1.3
 	github.com/vishvananda/netlink v1.1.0
 	golang.org/x/crypto v0.0.0-20210506145944-38f3c27a63bf
-	golang.org/x/sys v0.0.0-20210510120138-977fb7262007
+	golang.org/x/sys v0.1.0
 	golang.zx2c4.com/wireguard v0.0.0-20210604143328-f9b48a961cd2
 	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20210506160403-92e472f520a5
 	golang.zx2c4.com/wireguard/windows v0.3.14
